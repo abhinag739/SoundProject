@@ -1,0 +1,5 @@
+numpy
+pygame
+pandas
+python-math
+simpleaudio
